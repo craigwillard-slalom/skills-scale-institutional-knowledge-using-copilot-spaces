@@ -8,7 +8,7 @@ Welcome to the OctoAcme Project Management documentation hub. This README provid
 
 OctoAcme's project management centers on iterative, transparent, and customer-focused delivery. Projects begin with an initiation phase to validate business needs, align stakeholders, and outline objectives and success criteria via a Project One-pager. Planning breaks work into deliverable increments, prioritizes backlog items, manages dependencies and risks, and uses project boards for workflow visualization. During execution, teams follow daily standups, weekly syncs, and structured demo/review cycles, enforcing clear branching, CI policies, and PR reviews. 
 
-Core roles—Project Manager, Product Manager, Scrum Master, Developer, UX Designer, Business Analyst, Data Analyst, QA, Support Lead, Deployment Engineer, and Stakeholder—are clearly defined, with each persona responsible for specific activities throughout the lifecycle, ensuring accountability from planning to delivery. Communication is deliberate, with regular meetings at different cadences, status updates, and template-supported stakeholder messages. Risk management and escalation paths are documented so blockers are resolved promptly at the right level.
+Core roles—Project Manager, Product Manager, Scrum Master, Developer, QA/Testing, UX Designer, Business Analyst, Data Analyst, Support Lead, Deployment Engineer, and Stakeholder—are clearly defined, with each persona responsible for specific activities throughout the lifecycle, ensuring accountability from planning to delivery. Communication is deliberate, with regular meetings at different cadences, status updates, and template-supported stakeholder messages. Risk management and escalation paths are documented so blockers are resolved promptly at the right level.
 
 Quality assurance is built in: automated tests, linting, security scans, manual QA, and release checklists with rollback plans ensure reliability. Retrospectives after milestones and incidents help track learnings and actionable improvements, feeding back into continuous process refinement. These practices accelerate onboarding, promote consistent execution, and protect institutional knowledge.
 
@@ -44,7 +44,7 @@ Navigate to detailed process guides:
 ### Supporting Documents
 
 8. **[Roles and Personas](./octoacme-roles-and-personas.md)**  
-   Comprehensive definitions of all project roles (Developer, Product Manager, Project Manager, Scrum Master, UX Designer, Business Analyst, Data Analyst, Support Lead, Deployment Engineer) with responsibilities, goals, and communication patterns.
+   Comprehensive definitions of all project roles (Developer, Product Manager, Project Manager, QA/Testing, Scrum Master, UX Designer, Business Analyst, Data Analyst, Support Lead, Deployment Engineer) with responsibilities, goals, and communication patterns.
 
 ---
 
@@ -70,11 +70,18 @@ Navigate to detailed process guides:
 - Use [Project Planning](./octoacme-project-planning.md) to prioritize backlogs and define success criteria.
 - Review [Execution and Tracking](./octoacme-execution-and-tracking.md) for progress monitoring and metrics.
 
-### For Developers and QA
+### For Developers
 
 - Reference [Execution and Tracking](./octoacme-execution-and-tracking.md) for workflows, PR conventions, and quality standards.
 - Consult [Release and Deployment](./octoacme-release-and-deployment.md) for release requirements and procedures.
 - Review [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) for participating in team improvements.
+
+### For QA/Testing
+
+- Use [Project Planning](./octoacme-project-planning.md) to understand test plan requirements and Definition of Done.
+- Reference [Execution and Tracking](./octoacme-execution-and-tracking.md) for quality standards, testing workflows, and UAT coordination.
+- Consult [Release and Deployment](./octoacme-release-and-deployment.md) for pre-release testing and QA sign-off procedures.
+- Review [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) for quality improvement initiatives.
 
 ### For Scrum Masters
 

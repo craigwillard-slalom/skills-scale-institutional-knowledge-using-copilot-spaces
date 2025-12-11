@@ -75,6 +75,33 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA / Testing
+
+### Role Summary
+QA and Testing professionals ensure software quality through systematic testing, validation of acceptance criteria, and verification of user requirements. They identify defects early and advocate for quality standards.
+
+### Responsibilities
+- Design and execute test plans and test cases
+- Perform manual and automated testing (functional, integration, regression)
+- Validate acceptance criteria and user requirements
+- Report and track defects through resolution
+- Collaborate with developers on testability and bug fixes
+- Participate in requirements reviews to ensure testability
+
+### Goals
+- Ensure high-quality releases with minimal defects
+- Catch issues early before production deployment
+- Maintain comprehensive test coverage
+- Advocate for user experience and quality standards
+
+### Typical Communication
+- Test plan reviews with developers and product managers
+- Bug reports and defect triage sessions
+- QA sign-off communications before releases
+- Quality metrics and test results reporting
+
+---
+
 ## Scrum Master
 
 ### Role Summary
