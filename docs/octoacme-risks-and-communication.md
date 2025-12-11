@@ -29,14 +29,16 @@ Maintain a simple table with:
 - Use a single source of truth (project README or release doc) for status
 
 ## Communication Templates
-Weekly Status Template:
+
+### Weekly Status Template
 - Progress this week:
 - Next steps:
 - Risks & blockers:
 - Ask / decisions needed:
 - Key metrics and insights (from Data Analyst)
 
-Incident Communication (coordinated by Support Lead and Deployment Engineer):
+### Incident Communication
+Coordinated by Support Lead and Deployment Engineer:
 - Triage summary
 - Customer impact assessment
 - Actions being taken
